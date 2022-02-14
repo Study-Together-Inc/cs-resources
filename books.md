@@ -21,6 +21,5 @@
 * The C Programming Language, by Kernighan and Ritchie
 * The Structure and Interpretation of Computer Programs, by Abelson and Sussman
 * Land of Lisp, by Conrad Barski
-* Introduction to Algorithms, by Cormen, et. al
 * Communicating and Mobile Systems, by Robin Milner
 * The Little Schemer (and Reasoned, Seasoned, Prover, and Typer), all by Daniel Friedman
